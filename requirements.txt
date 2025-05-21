@@ -1,0 +1,8 @@
+joblib==1.4.2
+numpy==2.2.5
+pandas==2.2.3
+pygad==3.4.0
+pyswarm==0.6
+scikit_learn==1.1.3
+streamlit==1.44.1
+xgboost==3.0.0
